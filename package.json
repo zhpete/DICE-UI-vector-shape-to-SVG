@@ -1,0 +1,16 @@
+{
+  "name": "dice-ui-vector-shape-to-svg",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "eslint src/**/*.js",
+    "lint:fix": "eslint src/**/*.js --fix"
+  },
+  "devDependencies": {
+    "eslint": "^7.25.0"
+  },
+  "dependencies": {
+    "xml2js": "^0.4.23",
+    "yargs": "^17.0.1"
+  }
+}
