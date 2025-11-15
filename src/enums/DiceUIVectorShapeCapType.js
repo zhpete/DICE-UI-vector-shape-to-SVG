@@ -1,5 +1,3 @@
-'use strict';
-
 /* eslint-disable camelcase */
 module.exports = Object.freeze({
   DiceUIVectorShapeCapType_None: 'butt',

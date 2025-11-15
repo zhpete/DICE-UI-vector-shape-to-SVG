@@ -1,5 +1,3 @@
-'use strict';
-
 module.exports = Object.freeze({
   fill: 'black',
   mask: 'none',

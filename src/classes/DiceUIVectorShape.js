@@ -1,5 +1,3 @@
-'use strict';
-
 const DiceUIVectorInnerPaths = require('./DiceUIVectorInnerPaths');
 const DiceUIVectorPath = require('./DiceUIVectorPath');
 const DiceUIVectorShapeCapType = require('../enums/DiceUIVectorShapeCapType');
