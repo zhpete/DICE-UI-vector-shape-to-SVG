@@ -1,5 +1,3 @@
-'use strict';
-
 const DiceUIVectorPathCorner = require('./DiceUIVectorPathCorner');
 
 module.exports = class DiceUIVectorPath {

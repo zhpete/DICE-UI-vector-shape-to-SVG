@@ -1,5 +1,3 @@
-'use strict';
-
 const { parseString: parseXMLString } = require('xml2js');
 
 /*

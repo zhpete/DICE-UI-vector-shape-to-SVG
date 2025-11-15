@@ -1,5 +1,3 @@
-'use strict';
-
 const DiceUIVectorShape = require('./DiceUIVectorShape');
 
 module.exports = class DiceUIVectorShapeAsset {

@@ -1,5 +1,3 @@
-'use strict';
-
 const DiceUIVectorPathCornerType = require('../enums/DiceUIVectorPathCornerType');
 
 module.exports = class DiceUIVectorPathCorner {

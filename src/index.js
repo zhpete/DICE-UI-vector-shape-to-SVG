@@ -1,5 +1,3 @@
-'use strict';
-
 const args = require('./args');
 const {
   join: joinPath,
@@ -27,7 +25,7 @@ files.forEach(async (filepath) => {
       new XMLBuilder({ headless: true }).buildObject(asset.toXML2JSSVGObject()),
       joinPath(args.output, getRelativePath(args.input, dir)),
     );
-  } catch (er) {
+  } catch (er) { // eslint-disable-line no-unused-vars
     console.error(`Failed to parse ${filepath}`);
   }
 });
